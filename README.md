@@ -12,8 +12,6 @@
   <li>Computer Vision & Quality Control</li>
   <li>Process Optmization &Digital Twins</li>
 </ul>
-<p>CONNECT:</p>
-<p>PORTFOLIO: <a href="https://github.com/Sina-kr-AI/Sina-kr-AI">My Github</a></p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Sina-kr-AI&show_icons=true&theme=dark"
@@ -33,3 +31,9 @@
   <li>Python</li>
   <li>Idea Generator</li>
 </ul>
+<h1>Contact Me</h1>
+<p>Linkedin:</p>
+<p>Portfolio: <a href="https://github.com/Sina-kr-AI/Sina-kr-AI">My Github</a></p>
+<p>Telegram:</p>
+<p>Instagram:</p>
+<p>X:</p>
