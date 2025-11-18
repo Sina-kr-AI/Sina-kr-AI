@@ -28,7 +28,14 @@
   <li>Deep Learning</li>
   <li>Neuarl Networks</li>
   <li>Machine Learning</li>
-  <li>Python</li>
+  <li>Python</lu>
+  <ul>
+    <li>keras</li>
+    <li>tensorflow</li>
+    <li>sickit-learn</li>
+    <li>numpy</li>
+    <li>matplotlib</li>
+  </ul>
   <li>Idea Generator</li>
 </ul>
 <h1>Contact Me</h1>
@@ -37,3 +44,4 @@
 <p>Telegram:</p>
 <p>Instagram:</p>
 <p>X:</p>
+<p>E-Mail: sinadeeplearningai@gamil.com</p>
