@@ -43,5 +43,5 @@
 <p>Portfolio: <a href="https://github.com/Sina-kr-AI/Sina-kr-AI">My Github</a></p>
 <p>Telegram:</p>
 <p>Instagram:</p>
-<p>X:</p>
+<p>Kaggle: <a href="https://www.kaggle.com/sinannai">My Kaggle</a></p>
 <p>E-Mail: sinadeeplearningai@gamil.com</p>
